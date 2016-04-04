@@ -1,0 +1,31 @@
+{
+  "name": "oas-validator",
+  "version": "0.0.0",
+  "description": "Lightweight library for validating OpenAPI Specification documents.",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "keywords": [
+    "api",
+    "openapi",
+    "swagger",
+    "validator",
+    "validation"
+  ],
+  "author": "Jeremy Whitlock <jwhitlock@apache.org> (http://thoughtspark.org/)",
+  "bugs": {
+    "url": "https://github.com/whitlockjc/oas-validator/issues"
+  },
+  "homepage": "https://github.com/whitlockjc/oas-validator#readme",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whitlockjc/oas-validator.git"
+  },
+  "files": [
+    "index.js",
+    "lib",
+    "LICENSE"
+  ]
+}
